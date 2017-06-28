@@ -1,5 +1,4 @@
 var input = process.argv.slice(2).join("").toLowerCase().split("");
-console.log(input)
 
 function countLetters(string) {
   var letterCount = {};
